@@ -71,14 +71,12 @@ You will be given a set of poll data called [election_data.csv](PyPoll/Resources
 * The winner of the election based on popular vote.
 
 My Election Results
--------------------------
 Total Votes: 369,711
--------------------------
+
 Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
 Raymon Anthony Doane: 3.1% (11,606)
--------------------------
+
 Winner: Diana DeGette
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
--------------------------
